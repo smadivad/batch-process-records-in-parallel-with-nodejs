@@ -38,4 +38,4 @@ Now, lets insert **1,000,000** rows for process in our batch in the database run
 
 ## Demo
 This image is of my project running and processing 10,000 rows. Creating **batchsize** of 1,000 rows.
-![enter image description here](https://lh3.googleusercontent.com/pWynH79ZVFHZvPwaZzYMt8lIWQRUBg0UkbmNUf1gdxKWwnhrQv9xRf78mk93hfL1SiaqxyNdN5XfBHTxmhjJVO6sPYi4XOVa0K064jq2mUDPmUtHzkwNLWqJJRmhPgrn5bEnI83y=w1084-h371-no)
+![enter image description here](https://res.cloudinary.com/dn5xwgf9p/image/upload/v1570209964/preview_github/previewbatchnodejs_ggvt4u.png)
